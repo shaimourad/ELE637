@@ -3,10 +3,15 @@ This repository contains coursework and simulations related to signal processing
 Topics explored include:
 
 Fourier series and Fourier transforms
+
 Laplace transforms
+
 Z-transforms
+
 Convolution and system response
+
 Sampling theory
+
 Filter analysis and design
 
 MATLAB and simulation tools were used extensively to model and analyze engineering systems and signal behavior.
